@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consoledoga", "Consoledoga\Consoledoga.csproj", "{503610B0-85F2-4755-917A-D313B367FC33}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D3806D67-9F46-445C-B239-DBE7826264B7}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\nobel.csv = ..\..\..\Downloads\nobel.csv
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{503610B0-85F2-4755-917A-D313B367FC33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{503610B0-85F2-4755-917A-D313B367FC33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{503610B0-85F2-4755-917A-D313B367FC33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{503610B0-85F2-4755-917A-D313B367FC33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {616DD7BF-C673-4A66-BF72-B17568B7C320}
+	EndGlobalSection
+EndGlobal
